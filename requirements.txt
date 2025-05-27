@@ -1,5 +1,6 @@
-numpy
+streamlit
+tensorflow
 pandas
 scikit-learn
-streamlit
-pickle
+numpy
+pickle-mixin
